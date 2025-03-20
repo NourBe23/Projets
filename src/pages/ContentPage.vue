@@ -1,6 +1,6 @@
 <template>
   <div class="content-page">
-    <h2>✨ Questions Fréquentes (FAQ) ✨</h2>
+    <h2> Questions Fréquentes (FAQ) </h2>
 
     <div class="faq-section">
       <div class="faq-item">

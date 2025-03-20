@@ -30,6 +30,6 @@
     text-align: center;
   }
   </style>
-  
+$  
   
   

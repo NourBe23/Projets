@@ -25,16 +25,16 @@ const goBack = () => {
 const projets = ref([
   {
     nom: "👨‍💻 Site web pour malvoyants",
-    description: "Développement d'une plateforme web adaptée aux personnes malvoyantes.",
+    description: "Développement d'une plateforme web adaptée aux personnes malvoyantes en L2.",
     gif: "https://media1.tenor.com/m/m1Mr-khUDVgAAAAC/anime-hacking.gif" // Nouveau GIF ici ✅
   },
   {
-    nom: "👥 Application pour proches aidants",
-    description: "Maquette et pré-lancement d'une application destinée aux proches aidants.",
+    nom: "👥 Application de répit pour proches aidants",
+    description: "Maquette et pré-lancement d'une application destinée aux proches aidants lors de ma L3.",
     gif: "https://healthcaresalute-soinsdesantesalute.com/wp-content/uploads/c4c-tool-kit-1.gif"
   },
   {
-    nom: "🩺 Base de données d’échographes",
+    nom: "🩺 Base de données d’échographes durant mon stage en tant qu'assistante technicienne biomédicale",
     description: "Création d'une base de données pour recenser 100 échographes hospitaliers.",
     gif: "https://media1.tenor.com/m/GrA7AzpkDNUAAAAd/alex-geerken-geerken.gif"
   }

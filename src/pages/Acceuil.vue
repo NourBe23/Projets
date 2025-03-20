@@ -22,10 +22,7 @@
         <router-link to="/experiences">
           <button class="dynamic-btn">Mes Expériences 📖</button>
         </router-link>
-
-        <router-link to="/centres-interet">
-          <button class="dynamic-btn">Mes Centres d'Intérêt</button>
-        </router-link>
+        
       </nav>
     </section>
 

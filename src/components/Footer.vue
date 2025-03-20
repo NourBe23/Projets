@@ -2,7 +2,7 @@
     <footer>
       <div class="footer-content">
         <div class="contact-info">
-          <p>📩 Email : <a href="mailto:nour.bentabet@example.com">nour.bentabet@example.com</a></p>
+          <p>📩 Email : <a href="mailto:nour.bentabet@etu.univ-lyon1.fr">nour.bentabet@etu.univ-lyon1.fr</a></p>
           <p>📱 Instagram : <a href="https://www.instagram.com/tonprofil" target="_blank">@tonprofil</a></p>
           <p>💼 LinkedIn : <a href="https://www.linkedin.com/in/tonprofil" target="_blank">Mon LinkedIn</a></p>
         </div>
@@ -12,7 +12,7 @@
           <button class="faq-button" :style="buttonStyle">Accéder à la FAQ</button>
         </router-link>
   
-        <p class="footer-text">© 2024 Nour Bentabet - Tous droits réservés 😊</p>
+        <p class="footer-text">© 2025 Nour Bentabet - Tous droits réservés 😊</p>
       </div>
     </footer>
   </template>
