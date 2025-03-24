@@ -60,7 +60,7 @@ import { ref, onMounted } from 'vue';
 
 const router = useRouter();
 
-// 🔥 Vérifie si une image existe déjà dans LocalStorage et charge-la
+//  Vérifie si une image existe déjà dans LocalStorage et charge-la
 onMounted(() => {
   const savedImage = localStorage.getItem('profileImage');
   if (savedImage) {
